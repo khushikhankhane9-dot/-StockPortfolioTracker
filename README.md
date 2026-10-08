@@ -1,2 +1,2 @@
-# codealpha_StockPortfolioTracker
-codealpha python internship-stock portfolio tracker
+#StockPortfolioTracker
+python stock portfolio tracker
